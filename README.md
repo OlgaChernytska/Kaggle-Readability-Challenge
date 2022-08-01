@@ -10,12 +10,11 @@ Simple model training pipeline, that consists of:
 
 ## Usage
 
-1. Install requirements:
+1. Install requirements (Python version: 3.8)
 
-```pip install -r requirements.txt```
+```pip install -U -r requirements.txt``` 
 
 2. Download data from [CommonLit Readability Challenge](https://www.kaggle.com/competitions/commonlitreadabilityprize/data) into folder `data/`
-
 
 3. To train and evaluate model. Script runs up to 10 mins on CPU, final RMSE on test set is 0.7722. Model will be saved to `rf_model.joblib`.
 ```
