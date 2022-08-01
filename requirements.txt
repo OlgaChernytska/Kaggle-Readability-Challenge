@@ -1,7 +1,7 @@
-numpy==1.19.2
-pandas==1.4.3
-tqdm==4.64.0
-sentence-transformers==2.2.2
-nltk==3.7
-scikit-learn==1.1.1
-joblib==1.1.0
+numpy
+pandas
+tqdm
+sentence-transformers
+nltk
+scikit-learn
+joblib
